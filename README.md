@@ -109,9 +109,10 @@ F H <BR>
 2 3 <BR>
 2 4 <BR>
 <hr>
-<h3>Sample Output</h3>
+<h3>Output</h3>
 <hr>
-['0', '1', '2', '3', '4']
+<img width="486" height="163" alt="image" src="https://github.com/user-attachments/assets/167bbee5-2919-493a-8318-394621493dc1" />
+
 
 <hr>
 <h3>Result:</h3>
